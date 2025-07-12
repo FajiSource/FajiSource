@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I'm Faji! 👋<br><br>I'm currently a student passionate about software development and programming. I'm exploring various technologies, frameworks, and tools to enhance my skillset. At the moment, I'm diving into web development, with a focus on both front-end and back-end technologies like React, Laravel, and more.<br><br>I enjoy working on projects that challenge me and help me grow as a developer. I'm always looking to learn and collaborate on interesting open-source projects.
+Hi, I'm Faji! 
 
 
 ## 🌐 Socials:
