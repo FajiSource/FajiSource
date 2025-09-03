@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hi, I'm Faji! 
+Hi, I'm Faji!👋<br><br>
+I’m passionate about software development and enjoy exploring different technologies, frameworks, and tools to expand my skills. Right now, I’m diving deeper into web development, focusing on both front-end and back-end technologies like React, Laravel, and more.
 
+I love working on projects that challenge me and help me grow. I’m always excited to learn, take on new challenges, and collaborate on meaningful open-source projects.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_seedseeding) 
 
