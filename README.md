@@ -40,8 +40,6 @@ I love working on projects that challenge me and help me grow. I’m always exci
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FajiSource&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-smoky-beta.vercel.app/api/top-langs/?username=FajiSource&theme=dark&hide_border=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FajiSource&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
