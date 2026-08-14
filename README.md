@@ -72,9 +72,7 @@ I love projects that challenge me and help me grow, and I'm always up for learni
 
 ### 🔝 Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=FajiSource&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=FajiSource&limit=5&theme=dark&combine_all_yearly_contributions=true&count_private=true)
 
 ### ✍️ Random Dev Quote
 
