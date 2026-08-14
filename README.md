@@ -14,14 +14,13 @@
 
 ### 💫 About Me
 
-I'm passionate about software development and enjoy exploring new technologies, frameworks, and tools. Right now I'm going deeper into web development — sharpening both front-end and back-end skills with **React** and **Laravel**.
+I'm passionate about software development and enjoy exploring new technologies, frameworks, and tools. Right now I'm going deeper into web development, sharpening both my front-end and back-end skills.
 
 I love projects that challenge me and help me grow, and I'm always up for learning something new or collaborating on a meaningful open-source project.
 
-- 🔭 Currently building with **React** and **Laravel**
+- 🔭 Currently deepening my front-end and back-end web development skills
 - 🌱 Always learning new frameworks and tools
 - 🤝 Open to collaborating on open-source projects
-- 💬 Find me on [Discord](https://discord.gg/_seedseeding)
 
 ---
 
