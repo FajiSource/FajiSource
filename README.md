@@ -72,7 +72,7 @@ I love projects that challenge me and help me grow, and I'm always up for learni
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=FajiSource&limit=5&theme=dark&combine_all_yearly_contributions=true&count_private=true)
+![](https://github-contributor-stats.vercel.app/api?username=FajiSource&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 
@@ -83,7 +83,7 @@ I love projects that challenge me and help me grow, and I'm always up for learni
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=FajiSource&icon=0&color=0" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=FajiSource&color=blueviolet&style=flat" alt="Visitor count" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
