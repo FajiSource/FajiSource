@@ -4,12 +4,6 @@
   <em>Software developer building things for the web — front to back.</em>
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/_seedseeding">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
 ---
 
 ### 💫 About Me
