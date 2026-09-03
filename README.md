@@ -1,6 +1,6 @@
 # It's Faji.
 
-### Full Stack Developer · React × Laravel · Modern Web Applications
+### Full Stack Developer · AI · Modern Web Applications
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge)](https://faji-web-portfolio.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-FajiSource-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FajiSource)
 
