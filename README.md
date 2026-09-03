@@ -8,18 +8,18 @@
 
 ## Building Ideas Into Working Software
 
-I'm a **Full Stack Developer** focused on building modern web and mobile applications from frontend interfaces to backend APIs and databases.
+I'm a **Full Stack Developer** focused on building modern web and mobile applications, from intuitive user interfaces to reliable backend systems and intelligent features.
 
-I enjoy turning ideas and requirements into **clean, responsive, and practical software**. My main stack revolves around **React, TypeScript, Laravel, PHP, and MySQL**, with experience working across the entire application lifecycle—from designing interfaces and building REST APIs to database integration, deployment, and debugging.
+I enjoy turning ideas and requirements into **clean, responsive, and practical software**. I work across the stack, connecting frontend experiences, backend services, APIs, databases, and third-party technologies into complete applications.
 
-I'm particularly interested in projects where I can solve real problems, learn new technologies, and continuously improve the way software is built.
+I'm particularly interested in **AI-powered applications, modern web development, and solving real-world problems through software**. I enjoy challenging projects that push me to learn, experiment, and improve.
 
-- 🚀 Building full-stack web applications with React and Laravel
-- ⚡ Creating responsive and user-focused interfaces
-- 🔌 Designing and integrating RESTful APIs
-- 🗄️ Working with relational databases and backend systems
-- 📱 Exploring cross-platform mobile development with React Native
-- 🧠 Continuously learning modern tools, frameworks, and development practices
+- 🚀 Building full-stack web and mobile applications
+- ⚡ Creating responsive and user-focused digital experiences
+- 🤖 Exploring AI integration and intelligent application features
+- 🔌 Designing and integrating APIs and backend services
+- 🗄️ Working with databases and data-driven applications
+- 🧠 Continuously learning modern technologies and development practices
 - 🤝 Open to meaningful collaborations and interesting projects
 
 ---
@@ -29,7 +29,7 @@ I'm particularly interested in projects where I can solve real problems, learn n
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,java,cpp" />
 </p>
 
 ### Frontend Ecosystem
@@ -41,13 +41,19 @@ I'm particularly interested in projects where I can solve real problems, learn n
 ### Backend & Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,apache" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,apache" />
 </p>
 
 ### Mobile Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### AI & Intelligent Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### Tools & Platforms
@@ -62,15 +68,16 @@ I'm particularly interested in projects where I can solve real problems, learn n
 
 | Area | Focus |
 | :--- | :--- |
-| **Frontend Development** | Building responsive, component-based interfaces with React, TypeScript, and Tailwind CSS |
-| **Backend Development** | Developing structured backend systems and RESTful APIs with Laravel and PHP |
-| **API Integration** | Designing and consuming APIs for communication between frontend and backend systems |
-| **Database Development** | Designing and working with relational databases using MySQL |
-| **Full Stack Architecture** | Connecting frontend applications, APIs, business logic, and persistent data into cohesive systems |
-| **Responsive Design** | Creating interfaces that work across desktop, tablet, and mobile devices |
-| **Authentication & Authorization** | Implementing secure application access and role-based functionality |
-| **Deployment** | Deploying and maintaining applications using platforms such as Vercel and Hostinger |
-| **Development Workflow** | Using Git, GitHub, Postman, and modern development tooling throughout the development lifecycle |
+| **Full Stack Development** | Building complete applications across frontend, backend, APIs, and databases |
+| **Frontend Development** | Creating responsive, interactive, and component-based user interfaces |
+| **Backend Development** | Building structured backend services, business logic, and APIs |
+| **API Integration** | Connecting applications with RESTful APIs and external services |
+| **AI Integration** | Exploring AI-powered features, intelligent workflows, and computer vision applications |
+| **Database Development** | Designing and working with relational and application databases |
+| **Responsive Design** | Building interfaces that adapt across desktop, tablet, and mobile devices |
+| **Authentication & Authorization** | Implementing secure access control and role-based functionality |
+| **Application Deployment** | Deploying and maintaining applications across modern hosting platforms |
+| **Software Development** | Applying clean code, version control, debugging, and maintainable development practices |
 
 ---
 
@@ -78,15 +85,15 @@ I'm particularly interested in projects where I can solve real problems, learn n
 
 ### EduSuite
 
-**Laravel • React • MySQL • REST API**
+**Full Stack Web Application**
 
 A full-stack education management platform designed to support different academic and administrative workflows.
 
 #### Highlights
 
-- Built backend functionality using Laravel and RESTful APIs
-- Developed responsive interfaces for different system roles
-- Implemented role-based access and application workflows
+- Developed functionality for multiple academic and administrative roles
+- Built responsive interfaces for different system workflows
+- Implemented role-based access and application functionality
 - Integrated frontend and backend services through APIs
 - Designed database-driven features for academic management
 
@@ -94,23 +101,23 @@ A full-stack education management platform designed to support different academi
 
 ### BuyiCart
 
-**React • Laravel • MySQL • REST API**
+**E-Commerce & Product Comparison Platform**
 
-A shopping-focused web application designed to help users compare products and make more informed purchasing decisions.
+A shopping-focused application designed to help users compare products and make more informed purchasing decisions.
 
 #### Highlights
 
 - Developed interactive product and pricing functionality
-- Built responsive user interfaces with React
-- Integrated frontend components with backend APIs
+- Built responsive user interfaces
+- Integrated frontend components with backend services
 - Designed features around practical buyer decision-making
-- Continuously improving the application based on user feedback and testing
+- Improved the application based on user feedback and testing
 
 ---
 
 ### Student Tracking System
 
-**Laravel • PHP • MySQL • Blade**
+**Student Management Platform**
 
 A web-based system for managing and tracking student-related records and academic information.
 
@@ -119,25 +126,25 @@ A web-based system for managing and tracking student-related records and academi
 - Developed database-driven CRUD functionality
 - Implemented role-based workflows
 - Built administrative interfaces for managing records
-- Structured backend logic using Laravel
+- Designed structured workflows for different system users
 - Focused on maintainability and practical usability
 
 ---
 
 ### Lost & Found System
 
-**React • Laravel • FastAPI • Python • AI**
+**AI-Powered Lost & Found Platform**
 
 A lost-and-found platform that combines traditional application workflows with AI-assisted image verification.
 
 #### Architecture
 
-**React → Laravel API → Python/FastAPI AI Service → MySQL**
+**Web Application → Backend API → AI Service → Database**
 
 #### Highlights
 
 - Built a full-stack architecture connecting multiple services
-- Integrated a Python-based AI microservice with the Laravel backend
+- Integrated a Python-based AI service with the application backend
 - Explored computer vision and image similarity techniques
 - Developed workflows for reporting and verifying lost items
 - Connected frontend, backend, AI services, and database systems
@@ -148,36 +155,37 @@ A lost-and-found platform that combines traditional application workflows with A
 
 ### Build With Purpose
 
-I believe software should solve a real problem rather than simply demonstrate technology. I focus on understanding the purpose of a feature before deciding how to implement it.
+I believe software should solve a real problem rather than simply demonstrate technology. I focus on understanding the purpose behind a feature before deciding how to implement it.
 
 ### Keep It Maintainable
 
-Readable code, clear structure, and reusable components make applications easier to improve and scale.
+Readable code, clear structure, and reusable components make applications easier to understand, improve, and scale.
 
 ### Learn By Building
 
-The fastest way I learn a technology is by using it to build something. Projects give me the opportunity to turn concepts into practical experience.
+I learn best by building. Every project gives me an opportunity to turn new concepts and technologies into practical experience.
 
-### Full Stack Thinking
+### Think Across the Stack
 
-I enjoy understanding how the pieces connect—from the UI and API layer to business logic, databases, authentication, and deployment.
+I enjoy understanding how different parts of an application work together—from the user interface and APIs to business logic, databases, authentication, and deployment.
 
 ### Improve Continuously
 
-Every project is an opportunity to identify what can be made faster, cleaner, more reliable, or easier to use.
+Every project is an opportunity to make something faster, cleaner, more reliable, accessible, or easier to use.
 
 ---
 
 ## Current Areas of Exploration
 
-- ⚛️ Advanced React & TypeScript patterns
-- 🏗️ Scalable Laravel backend architecture
-- 🔌 RESTful API design and integration
-- 📱 React Native application development
-- 🤖 AI integration and intelligent application features
-- ☁️ Cloud deployment and application infrastructure
-- 🧪 Testing and improving application reliability
-- 🎨 Modern UI/UX and responsive design
+- ⚛️ Advanced Frontend Development
+- 🏗️ Scalable Backend Architecture
+- 🔌 RESTful API Design & Integration
+- 📱 Cross-Platform Mobile Development
+- 🤖 AI Integration & Intelligent Applications
+- 👁️ Computer Vision & Image-Based Systems
+- ☁️ Cloud Deployment & Application Infrastructure
+- 🧪 Software Testing & Application Reliability
+- 🎨 Modern UI/UX & Responsive Design
 
 ---
 
@@ -205,7 +213,7 @@ Every project is an opportunity to identify what can be made faster, cleaner, mo
 
 My goal is to become a stronger **full-stack engineer** capable of taking an idea from concept to a reliable, production-ready application.
 
-I'm continuously improving across the stack—strengthening my frontend architecture, backend development, database design, API development, deployment, and problem-solving skills.
+I'm continuously improving across the stack while exploring **AI, modern web technologies, system architecture, and better software development practices**.
 
 > **Build it. Understand it. Improve it.**
 
