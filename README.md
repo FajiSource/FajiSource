@@ -29,7 +29,7 @@ I'm particularly interested in **AI-powered applications, modern web development
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,java,cpp" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,cpp" />
 </p>
 
 ### Frontend Ecosystem
@@ -41,7 +41,7 @@ I'm particularly interested in **AI-powered applications, modern web development
 ### Backend & Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,apache" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,supabase,apache" />
 </p>
 
 ### Mobile Development
