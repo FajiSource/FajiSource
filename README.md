@@ -1,81 +1,220 @@
-<h1 align="center">Hi there, I'm Faji 👋</h1>
+# It's Faji.
 
-<p align="center">
-  <em>Software developer building things for the web — front to back.</em>
+### Full Stack Developer · React × Laravel · Modern Web Applications
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge)](https://faji-web-portfolio.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-FajiSource-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FajiSource)
+
+---
+
+## Building Ideas Into Working Software
+
+I'm a **Full Stack Developer** focused on building modern web and mobile applications from frontend interfaces to backend APIs and databases.
+
+I enjoy turning ideas and requirements into **clean, responsive, and practical software**. My main stack revolves around **React, TypeScript, Laravel, PHP, and MySQL**, with experience working across the entire application lifecycle—from designing interfaces and building REST APIs to database integration, deployment, and debugging.
+
+I'm particularly interested in projects where I can solve real problems, learn new technologies, and continuously improve the way software is built.
+
+- 🚀 Building full-stack web applications with React and Laravel
+- ⚡ Creating responsive and user-focused interfaces
+- 🔌 Designing and integrating RESTful APIs
+- 🗄️ Working with relational databases and backend systems
+- 📱 Exploring cross-platform mobile development with React Native
+- 🧠 Continuously learning modern tools, frameworks, and development practices
+- 🤝 Open to meaningful collaborations and interesting projects
+
+---
+
+## Technical Arsenal
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php" />
+</p>
+
+### Frontend Ecosystem
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,jquery" />
+</p>
+
+### Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,apache" />
+</p>
+
+### Mobile Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,npm,postman,figma,vercel,netlify,gcp,vscode" />
 </p>
 
 ---
 
-### 💫 About Me
+## Core Competencies
 
-I'm passionate about software development and enjoy exploring new technologies, frameworks, and tools. Right now I'm going deeper into web development, sharpening both my front-end and back-end skills.
-
-I love projects that challenge me and help me grow, and I'm always up for learning something new or collaborating on a meaningful open-source project.
-
-- 🔭 Currently deepening my front-end and back-end web development skills
-- 🌱 Always learning new frameworks and tools
-- 🤝 Open to collaborating on open-source projects
-
----
-
-### 💻 Tech Stack
-
-**Languages**
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Front-End**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-**Back-End & Databases**
-
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+| Area | Focus |
+| :--- | :--- |
+| **Frontend Development** | Building responsive, component-based interfaces with React, TypeScript, and Tailwind CSS |
+| **Backend Development** | Developing structured backend systems and RESTful APIs with Laravel and PHP |
+| **API Integration** | Designing and consuming APIs for communication between frontend and backend systems |
+| **Database Development** | Designing and working with relational databases using MySQL |
+| **Full Stack Architecture** | Connecting frontend applications, APIs, business logic, and persistent data into cohesive systems |
+| **Responsive Design** | Creating interfaces that work across desktop, tablet, and mobile devices |
+| **Authentication & Authorization** | Implementing secure application access and role-based functionality |
+| **Deployment** | Deploying and maintaining applications using platforms such as Vercel and Hostinger |
+| **Development Workflow** | Using Git, GitHub, Postman, and modern development tooling throughout the development lifecycle |
 
 ---
 
-### 📊 GitHub Stats
+## Featured Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-smoky-beta.vercel.app/api?username=FajiSource&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FajiSource&theme=dark&hide_border=false" />
-</p>
+### EduSuite
 
-<p align="center">
-  <img src="https://github-readme-stats-smoky-beta.vercel.app/api/top-langs/?username=FajiSource&theme=dark&hide_border=false&count_private=true&layout=compact" />
-</p>
+**Laravel • React • MySQL • REST API**
 
+A full-stack education management platform designed to support different academic and administrative workflows.
 
-### ✍️ Random Dev Quote
+#### Highlights
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+- Built backend functionality using Laravel and RESTful APIs
+- Developed responsive interfaces for different system roles
+- Implemented role-based access and application workflows
+- Integrated frontend and backend services through APIs
+- Designed database-driven features for academic management
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### BuyiCart
+
+**React • Laravel • MySQL • REST API**
+
+A shopping-focused web application designed to help users compare products and make more informed purchasing decisions.
+
+#### Highlights
+
+- Developed interactive product and pricing functionality
+- Built responsive user interfaces with React
+- Integrated frontend components with backend APIs
+- Designed features around practical buyer decision-making
+- Continuously improving the application based on user feedback and testing
+
+---
+
+### Student Tracking System
+
+**Laravel • PHP • MySQL • Blade**
+
+A web-based system for managing and tracking student-related records and academic information.
+
+#### Highlights
+
+- Developed database-driven CRUD functionality
+- Implemented role-based workflows
+- Built administrative interfaces for managing records
+- Structured backend logic using Laravel
+- Focused on maintainability and practical usability
+
+---
+
+### Lost & Found System
+
+**React • Laravel • FastAPI • Python • AI**
+
+A lost-and-found platform that combines traditional application workflows with AI-assisted image verification.
+
+#### Architecture
+
+**React → Laravel API → Python/FastAPI AI Service → MySQL**
+
+#### Highlights
+
+- Built a full-stack architecture connecting multiple services
+- Integrated a Python-based AI microservice with the Laravel backend
+- Explored computer vision and image similarity techniques
+- Developed workflows for reporting and verifying lost items
+- Connected frontend, backend, AI services, and database systems
+
+---
+
+## Engineering Approach
+
+### Build With Purpose
+
+I believe software should solve a real problem rather than simply demonstrate technology. I focus on understanding the purpose of a feature before deciding how to implement it.
+
+### Keep It Maintainable
+
+Readable code, clear structure, and reusable components make applications easier to improve and scale.
+
+### Learn By Building
+
+The fastest way I learn a technology is by using it to build something. Projects give me the opportunity to turn concepts into practical experience.
+
+### Full Stack Thinking
+
+I enjoy understanding how the pieces connect—from the UI and API layer to business logic, databases, authentication, and deployment.
+
+### Improve Continuously
+
+Every project is an opportunity to identify what can be made faster, cleaner, more reliable, or easier to use.
+
+---
+
+## Current Areas of Exploration
+
+- ⚛️ Advanced React & TypeScript patterns
+- 🏗️ Scalable Laravel backend architecture
+- 🔌 RESTful API design and integration
+- 📱 React Native application development
+- 🤖 AI integration and intelligent application features
+- ☁️ Cloud deployment and application infrastructure
+- 🧪 Testing and improving application reliability
+- 🎨 Modern UI/UX and responsive design
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FajiSource&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=58A6FF&point=FFFFFF" width="95%" alt="GitHub Activity Graph"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats-smoky-beta.vercel.app/api?username=FajiSource&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FajiSource&theme=dark&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## What I'm Building Toward
+
+My goal is to become a stronger **full-stack engineer** capable of taking an idea from concept to a reliable, production-ready application.
+
+I'm continuously improving across the stack—strengthening my frontend architecture, backend development, database design, API development, deployment, and problem-solving skills.
+
+> **Build it. Understand it. Improve it.**
+
+---
+
+## Let's Connect
+
+I'm always interested in building useful products, collaborating on interesting projects, and connecting with other developers.
+
+**Have an idea, project, or opportunity? Let's build something.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge)](https://faji-web-portfolio.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-FajiSource-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FajiSource)
