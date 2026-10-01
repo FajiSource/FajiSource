@@ -115,6 +115,24 @@ A shopping-focused application designed to help users compare products and make 
 
 ---
 
+### Aklan — The Heart of the Visayas
+
+**Tourism & Cultural Showcase Website**
+
+A multi-page website promoting the province of Aklan in Western Visayas, highlighting its tourist spots, local cuisine, festivals, and traditions.
+
+[![Live Site](https://img.shields.io/badge/Live_Site-Visit-111827?style=for-the-badge)](https://aklan-website.vercel.app/index.html)
+
+#### Highlights
+
+- Designed and built a multi-page site covering attractions, delicacies, festivals, and traditions
+- Created a responsive layout that adapts across desktop, tablet, and mobile
+- Organized content into clear, navigable sections for visitors and travelers
+- Focused on visual storytelling to showcase Aklan's culture and landscapes
+- Deployed and hosted on Vercel
+  
+---
+
 ### Student Tracking System
 
 **Student Management Platform**
